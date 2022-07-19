@@ -1,0 +1,35 @@
+[
+  {
+    "titulo": "Carpaccio Viejo",
+    "moneda": "U$S ",
+    "precio": "150",
+    "descripcion": "Entrada Carpaccio de salmón con cítricos "
+  },
+  {
+    "titulo": "Risotto de Merci",
+    "moneda": "U$S ",
+    "precio": "70",
+    "descripcion": "Risotto de berenjena y queso de cabra "
+  },
+  {
+    "id": 3,
+    "titulo": "Mousse de arroz",
+    "descripcion": "Mousse de arroz con leche y aroma de azahar",
+    "precio": 27.5,
+    "moneda": "U$S"
+  },
+  {
+    "id": 4,
+    "titulo": "Espárragos blancos",
+    "descripcion": "Espárragos blancos con vinagreta de verduras y jamón ibérico",
+    "precio": 37.5,
+    "moneda": "U$S"
+  },
+  {
+    "titulo": "Milanesa a caballo",
+    "moneda": "U$S",
+    "precio": "2000",
+    "descripcion": "Una bomba papa",
+    "id": "f1923271-5d02-4b5c-9597-042dd47f0968"
+  }
+]
